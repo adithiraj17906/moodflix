@@ -1,0 +1,14 @@
+# Large Dataset
+TMDB_movie_dataset_v11.csv
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+
+# Streamlit
+.streamlit/
